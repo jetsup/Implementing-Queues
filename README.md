@@ -1,2 +1,2 @@
 # Implementing-Queues
-Implementing a modern life scenario like queues with CPP
+Implementing a real life scenario like queues with CPP
